@@ -147,7 +147,7 @@ a {
     margin-top: 3em;
     margin-bottom: 3em;
     padding-left: 2em;
-    text-align: justify;
+    /* text-align: justify; */
 }
 
 .line-break {
